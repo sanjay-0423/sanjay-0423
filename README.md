@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjay-0423
 - 👀 I’m interested in making web and app development
 - 🌱 I’m currently working on angular, reactJS and typeScript
-- 💞️ I’m looking to collaborate on javaScritp
+- 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me ss.sanjaysarvaiya@gmail.com
 
 <!---
